@@ -1,0 +1,72 @@
+Case ID,Activity,Timestamp,Resource,Department,Status
+ORD-1001,Order Received,2026-09-01 09:00:00,Asha,Sales,Completed
+ORD-1001,Payment Verified,2026-09-01 09:45:00,Ravi,Finance,Completed
+ORD-1001,Order Processed,2026-09-01 13:30:00,Neha,Operations,Completed
+ORD-1001,Item Packed,2026-09-01 16:00:00,Om,Warehouse,Completed
+ORD-1001,Shipped,2026-09-02 10:00:00,Jay,Logistics,Completed
+ORD-1001,Delivered,2026-09-03 14:00:00,Jay,Logistics,Completed
+ORD-1002,Order Received,2026-09-01 10:15:00,Asha,Sales,Completed
+ORD-1002,Payment Verified,2026-09-01 11:00:00,Ravi,Finance,Completed
+ORD-1002,Order Processed,2026-09-02 15:30:00,Neha,Operations,Completed
+ORD-1002,Payment Verified,2026-09-02 16:15:00,Ravi,Finance,Completed
+ORD-1002,Order Processed,2026-09-03 09:30:00,Neha,Operations,Completed
+ORD-1002,Item Packed,2026-09-03 12:00:00,Om,Warehouse,Completed
+ORD-1002,Shipped,2026-09-04 09:00:00,Jay,Logistics,Completed
+ORD-1002,Delivered,2026-09-05 16:00:00,Jay,Logistics,Completed
+ORD-1003,Order Received,2026-09-02 08:30:00,Asha,Sales,Completed
+ORD-1003,Payment Verified,2026-09-02 09:10:00,Ravi,Finance,Completed
+ORD-1003,Order Processed,2026-09-02 10:00:00,Neha,Operations,Completed
+ORD-1003,Item Packed,2026-09-02 11:30:00,Om,Warehouse,Completed
+ORD-1003,Shipped,2026-09-02 17:00:00,Jay,Logistics,Completed
+ORD-1003,Delivered,2026-09-03 12:00:00,Jay,Logistics,Completed
+ORD-1004,Order Received,2026-09-02 11:00:00,Asha,Sales,In Progress
+ORD-1004,Payment Verified,2026-09-02 12:30:00,Ravi,Finance,In Progress
+ORD-1004,Order Processed,2026-09-03 17:00:00,Neha,Operations,In Progress
+ORD-1004,Item Packed,2026-09-04 14:30:00,Om,Warehouse,In Progress
+ORD-1005,Order Received,2026-09-03 09:00:00,Asha,Sales,Completed
+ORD-1005,Payment Verified,2026-09-03 10:30:00,Ravi,Finance,Completed
+ORD-1005,Order Processed,2026-09-03 12:00:00,Neha,Operations,Completed
+ORD-1005,Item Packed,2026-09-04 09:00:00,Om,Warehouse,Completed
+ORD-1005,Shipped,2026-09-04 15:00:00,Jay,Logistics,Completed
+ORD-1005,Delivered,2026-09-06 10:00:00,Jay,Logistics,Completed
+ORD-1006,Order Received,2026-09-03 13:00:00,Asha,Sales,Completed
+ORD-1006,Payment Verified,2026-09-03 13:45:00,Ravi,Finance,Completed
+ORD-1006,Order Processed,2026-09-04 16:00:00,Neha,Operations,Completed
+ORD-1006,Item Packed,2026-09-05 10:00:00,Om,Warehouse,Completed
+ORD-1006,Shipped,2026-09-05 18:00:00,Jay,Logistics,Completed
+ORD-1006,Delivered,2026-09-07 11:30:00,Jay,Logistics,Completed
+ORD-1007,Order Received,2026-09-04 08:45:00,Asha,Sales,Completed
+ORD-1007,Payment Verified,2026-09-04 10:00:00,Ravi,Finance,Completed
+ORD-1007,Order Processed,2026-09-06 15:00:00,Neha,Operations,Completed
+ORD-1007,Item Packed,2026-09-06 17:30:00,Om,Warehouse,Completed
+ORD-1007,Shipped,2026-09-07 09:00:00,Jay,Logistics,Completed
+ORD-1007,Delivered,2026-09-08 13:00:00,Jay,Logistics,Completed
+ORD-1008,Order Received,2026-09-04 14:00:00,Asha,Sales,Completed
+ORD-1008,Payment Verified,2026-09-04 15:00:00,Ravi,Finance,Completed
+ORD-1008,Order Processed,2026-09-05 16:30:00,Neha,Operations,Completed
+ORD-1008,Item Packed,2026-09-06 11:00:00,Om,Warehouse,Completed
+ORD-1008,Shipped,2026-09-06 16:00:00,Jay,Logistics,Completed
+ORD-1008,Delivered,2026-09-08 10:00:00,Jay,Logistics,Completed
+ORD-1009,Order Received,2026-09-05 09:30:00,Asha,Sales,Completed
+ORD-1009,Payment Verified,2026-09-05 10:30:00,Ravi,Finance,Completed
+ORD-1009,Order Processed,2026-09-07 14:00:00,Neha,Operations,Completed
+ORD-1009,Item Packed,2026-09-07 17:00:00,Om,Warehouse,Completed
+ORD-1009,Shipped,2026-09-08 09:00:00,Jay,Logistics,Completed
+ORD-1009,Delivered,2026-09-09 15:00:00,Jay,Logistics,Completed
+ORD-1010,Order Received,2026-09-05 12:00:00,Asha,Sales,In Progress
+ORD-1010,Payment Verified,2026-09-05 13:30:00,Ravi,Finance,In Progress
+ORD-1010,Order Processed,2026-09-06 17:00:00,Neha,Operations,In Progress
+ORD-1011,Order Received,2026-09-06 09:00:00,Asha,Sales,Completed
+ORD-1011,Payment Verified,2026-09-06 09:30:00,Ravi,Finance,Completed
+ORD-1011,Order Processed,2026-09-06 12:30:00,Neha,Operations,Completed
+ORD-1011,Item Packed,2026-09-06 15:00:00,Om,Warehouse,Completed
+ORD-1011,Shipped,2026-09-07 08:00:00,Jay,Logistics,Completed
+ORD-1011,Delivered,2026-09-08 12:00:00,Jay,Logistics,Completed
+ORD-1012,Order Received,2026-09-06 10:00:00,Asha,Sales,Completed
+ORD-1012,Payment Verified,2026-09-06 11:00:00,Ravi,Finance,Completed
+ORD-1012,Order Processed,2026-09-08 16:00:00,Neha,Operations,Completed
+ORD-1012,Payment Verified,2026-09-08 17:00:00,Ravi,Finance,Completed
+ORD-1012,Order Processed,2026-09-09 09:00:00,Neha,Operations,Completed
+ORD-1012,Item Packed,2026-09-09 12:30:00,Om,Warehouse,Completed
+ORD-1012,Shipped,2026-09-10 10:00:00,Jay,Logistics,Completed
+ORD-1012,Delivered,2026-09-11 14:00:00,Jay,Logistics,Completed
